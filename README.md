@@ -14,7 +14,7 @@
 <div align="center">
   🔭 I’m currently working on **a project at FPT**
   
-  🌱 Currently learning **Docker, AWS, Figma**
+  🌱 Currently learning **Docker, AWS, Figma, Typescript**
   
   💬 Ask me about **Java, SQL... or reach out [here](https://github.com/ThanhAmery)**
 </div>
